@@ -1,15 +1,9 @@
 # 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Whoami:
-┌──(semo@sameerfakhoury)-[@] 
 └─$ SOC Engineer | DFIR | Threat Hunting | Malware Analysis <br>
-┌──(semo@sameerfakhoury)-[@] 
 └─$ B.Sc. in Security of Information & Cyberspace | Ranked 1st | GPA: 3.73/4 <br>
-┌──(semo@sameerfakhoury)-[@] 
 └─$ Certifications: eJPT | eCIR | eCPPT | SC200 | AZ500 | SC300 | PMRP <br>
-┌──(semo@sameerfakhoury)-[@] 
 └─$ Projects: ForenZmap (DFIR tool) | APIDORK (OSINT) <br>
-┌──(semo@sameerfakhoury)-[@] 
 └─$ Content Creator: 100+ Cybersecurity Blogs | CTF Writeups | Course Summaries | Tech Articles <br>
-┌──(semo@sameerfakhoury)-[@] 
 └─$  GDSC Technical Coordinator & Graphic Designer | Organized workshops & tech events <br>
 
 ## ➤ Sherlock:
