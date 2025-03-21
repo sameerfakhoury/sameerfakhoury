@@ -1,10 +1,21 @@
-# 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 About Me:
-╰┈➤ SOC Engineer | DFIR | Threat Hunting | Malware Analysis<br>╰┈➤ B.Sc. in Security of Information & Cyberspace | Ranked 1st | GPA: 3.73/4  <br>╰┈➤ Certifications: eJPT | eCIR | eCPPT | SC200 | AZ500 | SC300 | PMRP  <br>╰┈➤ Projects: ForenZmap (DFIR tool) | APIDORK (OSINT) <br>╰┈➤ Content Creator: 100+ Cybersecurity Blogs | CTF Writeups | Course Summaries | Tech Articles <br>╰┈➤ GDSC Technical Coordinator & Graphic Designer | Organized workshops & tech events
+# 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Whoami:
+┌──(semo@sameerfakhoury)-[~] 
+└─$ SOC Engineer | DFIR | Threat Hunting | Malware Analysis
+┌──(semo@sameerfakhoury)-[~] 
+└─$ B.Sc. in Security of Information & Cyberspace | Ranked 1st | GPA: 3.73/4
+┌──(semo@sameerfakhoury)-[~] 
+└─$ Certifications: eJPT | eCIR | eCPPT | SC200 | AZ500 | SC300 | PMRP
+┌──(semo@sameerfakhoury)-[~] 
+└─$ Projects: ForenZmap (DFIR tool) | APIDORK (OSINT)
+┌──(semo@sameerfakhoury)-[~] 
+└─$ Content Creator: 100+ Cybersecurity Blogs | CTF Writeups | Course Summaries | Tech Articles
+┌──(semo@sameerfakhoury)-[~] 
+└─$  GDSC Technical Coordinator & Graphic Designer | Organized workshops & tech events
 
-## ➤ Socials:
+## ➤ Sherlock:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-fakhoury-67217426a)
 
-## ➤ Tech Stack:
+## ➤ Toolset:
 <a href="#" onclick="return false;">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
 </a>
